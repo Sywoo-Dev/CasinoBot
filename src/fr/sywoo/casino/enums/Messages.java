@@ -1,0 +1,12 @@
+package fr.sywoo.casino.enums;
+
+public enum Messages {
+	HELP,
+	WON_COINSFLIP,
+	LOSE_COINSFLIP,
+	ERROR_COINSFLIP,
+	WON_DICE,
+	LOSE_DICE,
+	MONEY_MOVEMENT_WON,
+	MONEY_MOVEMENT_LOSE;
+}
